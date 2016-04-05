@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagerman00mittgoog_0034.png"; bbox 0 0 4344 6142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 2239 1978 2525">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 2239 1978 2525">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 2239 1978 2525; baseline -0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 120 2344 484 2520; x_wconf 72' lang='lat' dir='ltr'>VENANTI</span> <span class='ocrx_word' id='word_1_2' title='bbox 537 2239 855 2524; x_wconf 69' lang='lat' dir='ltr'>HoNoffl</span> <span class='ocrx_word' id='word_1_3' title='bbox 908 2343 1459 2525; x_wconf 64' lang='lat' dir='ltr'><strong>CLEMENTIANI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1510 2341 1978 2520; x_wconf 72' lang='lat' dir='ltr'><strong>FORTVNATI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 470 2887 1632 3072">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 470 2887 1632 3072">
+     <span class='ocr_line' id='line_1_2' title="bbox 470 2887 1632 3072; baseline -0.006 -62"><span class='ocrx_word' id='word_1_5' title='bbox 470 2891 681 3010; x_wconf 77' lang='lat' dir='ltr'><strong>CARMIN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 684 2893 765 3008; x_wconf 85' lang='lat' dir='ltr'><strong>VM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 799 2889 1184 3009; x_wconf 79' lang='lat' dir='ltr'><strong>EPISTVLARVM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1218 2887 1632 3072; x_wconf 71' lang='lat' dir='ltr'>EXPOSITIONVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 831 3473 1272 3592">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 831 3473 1272 3592">
+     <span class='ocr_line' id='line_1_3' title="bbox 831 3473 1272 3592; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 831 3475 983 3592; x_wconf 86' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_10' title='bbox 1018 3473 1272 3592; x_wconf 79' lang='lat' dir='ltr'>VNDEOIM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2176 6132">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2176 6132">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2176 6132; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2176 6132; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

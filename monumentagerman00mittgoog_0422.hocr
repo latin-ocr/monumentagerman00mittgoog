@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagerman00mittgoog_0422.png"; bbox 0 0 4478 6188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 830 2156 1243 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 830 2156 1243 2308">
+     <span class='ocr_line' id='line_1_1' title="bbox 830 2156 1243 2308; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 830 2156 1243 2308; x_wconf 81' lang='lat' dir='ltr'>INDICES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 740 2593 1336 2672">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 740 2593 1336 2672">
+     <span class='ocr_line' id='line_1_2' title="bbox 740 2593 1336 2672; baseline 0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 740 2597 805 2670; x_wconf 89' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_3' title='bbox 837 2594 1037 2670; x_wconf 86' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1064 2593 1336 2672; x_wconf 82' lang='lat' dir='ltr'>POETICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 3299 1510 3694">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 3299 1510 3694">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 3299 1510 3383; baseline -0.001 -6"><span class='ocrx_word' id='word_1_5' title='bbox 590 3305 608 3377; x_wconf 96' lang='grc' dir='ltr'><strong>Ι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 661 3301 1040 3380; x_wconf 75' lang='lat' dir='ltr'><strong>GRAMMATIOAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1068 3305 1138 3380; x_wconf 86' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1165 3299 1510 3383; x_wconf 83' lang='lat' dir='ltr'>ELOOVTIONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 568 3457 1043 3536; baseline -0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 568 3462 607 3535; x_wconf 88' lang='grc' dir='ltr'>Π</span> <span class='ocrx_word' id='word_1_10' title='bbox 659 3460 747 3536; x_wconf 84' lang='lat' dir='ltr'>REI</span> <span class='ocrx_word' id='word_1_11' title='bbox 773 3457 1043 3536; x_wconf 84' lang='lat' dir='ltr'>METRIOAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 548 3613 906 3694; baseline -0.003 -3"><span class='ocrx_word' id='word_1_12' title='bbox 548 3617 608 3692; x_wconf 93' lang='grc' dir='ltr'>ΙΙΙ</span> <span class='ocrx_word' id='word_1_13' title='bbox 660 3613 906 3694; x_wconf 81' lang='lat' dir='ltr'><strong>LOOORVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2244 6180">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2244 6180">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2244 6180; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2244 6180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
